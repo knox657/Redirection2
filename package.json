@@ -1,0 +1,13 @@
+{
+  "name": "telegram-redirect",
+  "version": "1.0.0",
+  "description": "Redirect Telegram webview to default browser using Vercel serverless function",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["telegram", "redirect", "vercel", "intent", "browser"],
+  "author": "",
+  "license": "MIT"
+}
